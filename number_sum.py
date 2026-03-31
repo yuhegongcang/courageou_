@@ -21,5 +21,4 @@ def divde(a, b):
         print("除法结果:", a / b)
 
 
-if __name__ == '__main__':
-    
+# if __name__ == '__main__':
