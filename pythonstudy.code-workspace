@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../pythonstudy"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"python-envs.pythonProjects": [
+			{
+				"path": "courageou_-main",
+				"envManager": "ms-python.python:venv",
+				"packageManager": "ms-python.python:pip",
+				"workspace": "courageou_-main"
+			}
+		]
+	}
+}
